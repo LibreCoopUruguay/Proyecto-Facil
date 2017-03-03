@@ -1,0 +1,11 @@
+/* Custom CSS overrides */
+
+ul.main-menu{ text-align: center;}
+#page aside, #main{background: white; padding: 24px}
+#main .content-wrapper{padding: 24px}
+.container-inline-date .date-padding {float: none; margin-right: 12px;}
+#sidebar-first #block-block-3 {font-size: 32px;}
+.field .field-label{marbin-bottom: 6px;}
+.field .field-items{margin: 0 0 24px 0;}
+.field .field-item{marbin-bottom: 6px;}
+
